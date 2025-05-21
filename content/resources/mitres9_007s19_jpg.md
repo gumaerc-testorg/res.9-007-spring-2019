@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-9-007-meg-workshop-spring-2019/mitres9_007s19.jpg
+file: courses/meg-workshop/mitres9_007s19.jpg
 file_size: 152989
 file_type: image/jpeg
 image_metadata:
