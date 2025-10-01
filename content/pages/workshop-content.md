@@ -11,31 +11,31 @@ Recorded on May 6, 2019.
 
 ## Session 1
 
-Video: [MEG/EEG Source Estimation Approaches: A Spectrum of Purpose-Built Optimal Tools](https://youtu.be/VDmRsz3Vl2Q)
+Video: {{% resource_link "5b822eda-b645-431e-8096-dbf707d6df6b" "MEG/EEG Source Estimation Approaches: A Spectrum of Purpose-Built Optimal Tools" %}}
 
 Speaker: Matti Hämäläinen, Massachusetts General Hospital
 
-[Session 1 slides (PDF)](https://cbmm.mit.edu/sites/default/files/documents/1905-MEGinverse-MIT.pdf)
+{{% resource_link "43d703ce-4663-463d-a0dc-5e317f67c796" "Session 1 slides (PDF)" %}}
 
 ## Session 2
 
-Video: [Decoding Cognitive Function with MEG: Recent Advances, Challenges, and Future Prospects](https://youtu.be/Nvkz3FtHrlw)
+Video: {{% resource_link "f84c8bdd-69dc-4c9c-851d-0949cae94df3" "Decoding Cognitive Function with MEG: Recent Advances, Challenges, and Future Prospects" %}}
 
 Speaker: Dimitrios Pantazis, MIT - McGovern Institute for Brain Research 
 
-[Session 2 slides (PDF)](https://cbmm.mit.edu/sites/default/files/documents/Pantazis_MEGworkshop_decoding.pdf)
+{{% resource_link "1d840bb3-1108-46b0-9751-2f918d9a2352" "Session 2 slides (PDF)" %}}
 
 ## Session 3
 
-Video: [Large Scale High Temporal Resolution Effective Connectivity Analysis from MEG and the Problem of Inference](https://youtu.be/IoQ1rLmG6iw)
+Video: {{% resource_link "cf02f814-7f4e-4dab-a59e-73a9b9d32507" "Large Scale High Temporal Resolution Effective Connectivity Analysis from MEG and the Problem of Inference" %}}
 
 Speaker: David Gow, Massachusetts General Hospital
 
-[Session 3 slides (PPTX)](https://cbmm.mit.edu/sites/default/files/documents/MIT%20MEG%20Workshop%20Granger%20Talk%205_6_19.pptx) and [Session 3 associated video file (MOV)](https://cbmm.mit.edu/sites/default/files/documents/movie_PTC2_PTBcons_subjave_brain-LRlrgso2_cause-z-NOs1000f-F4-Rcs-150to400_bgK_10msduration.mov)
+{{% resource_link "a781eca8-1764-4155-a69b-0fcdffde4b36" "Session 3 slides (PPTX)" %}} and {{% resource_link "621c6c4c-77fb-4bff-8ca4-9f1b654672f4" "Session 3 associated video file (MOV)" %}}
 
 ## Session 4
 
-Video: [Demonstration of MEG Data Analysis Using Brainstorm](https://youtu.be/DjjZFCnFDEQ)
+Video: {{% resource_link "ccb89a2f-ccd4-4816-bf4c-f073c510cf13" "Demonstration of MEG Data Analysis Using Brainstorm" %}}
 
 Speaker: Dimitrios Pantazis, MIT - McGovern Institute for Brain Research
 
